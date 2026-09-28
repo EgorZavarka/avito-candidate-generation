@@ -1,0 +1,9 @@
+pandas==3.0.6
+pyarrow==25.0.1
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+PyStemmer==3.1.0
+torch==2.14.0
+sentence-transformers==6.1.0
+jupyter==1.1.1
